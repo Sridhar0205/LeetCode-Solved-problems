@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -14,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
