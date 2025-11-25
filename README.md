@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
