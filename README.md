@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,5 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
