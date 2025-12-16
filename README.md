@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
