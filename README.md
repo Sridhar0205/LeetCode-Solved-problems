@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
