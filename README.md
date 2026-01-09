@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
