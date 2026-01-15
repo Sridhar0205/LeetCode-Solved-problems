@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0196-delete-duplicate-emails) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1873-calculate-special-bonus](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
