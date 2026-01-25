@@ -134,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0607-sales-person) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
