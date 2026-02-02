@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1873-calculate-special-bonus) |
