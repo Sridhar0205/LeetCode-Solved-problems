@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1873-calculate-special-bonus) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
