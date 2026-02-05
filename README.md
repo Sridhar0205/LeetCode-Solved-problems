@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
