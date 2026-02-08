@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
