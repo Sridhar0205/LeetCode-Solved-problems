@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
 ## Tree
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Database
 |  |
