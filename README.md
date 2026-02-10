@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0283-move-zeroes) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0342-power-of-four) |
