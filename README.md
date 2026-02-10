@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1732-find-the-highest-altitude) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
