@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0977-squares-of-a-sorted-array) |
