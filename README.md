@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
 ## Array
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
