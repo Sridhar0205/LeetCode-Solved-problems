@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
