@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0096-unique-binary-search-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
