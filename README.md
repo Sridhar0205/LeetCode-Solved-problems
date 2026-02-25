@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
