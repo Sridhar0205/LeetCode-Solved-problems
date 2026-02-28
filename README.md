@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2652-sum-multiples](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0342-power-of-four) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
