@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Database
 |  |
 | ------- |
