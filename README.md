@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0045-jump-game-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Database
 |  |
 | ------- |
@@ -233,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
