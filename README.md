@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
