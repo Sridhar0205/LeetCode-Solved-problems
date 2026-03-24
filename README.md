@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2906-construct-product-matrix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1732-find-the-highest-altitude) |
+| [2906-construct-product-matrix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3643-flip-square-submatrix-vertically) |
