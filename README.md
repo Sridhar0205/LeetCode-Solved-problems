@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3866-first-unique-even-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3866-first-unique-even-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3866-first-unique-even-element) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
+| [3866-first-unique-even-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3866-first-unique-even-element) |
 ## Simulation
 |  |
 | ------- |
