@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3866-first-unique-even-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3866-first-unique-even-element) |
