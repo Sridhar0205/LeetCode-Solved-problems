@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Database
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Enumeration
 |  |
 | ------- |
