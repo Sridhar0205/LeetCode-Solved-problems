@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3866-first-unique-even-element) |
 ## Simulation
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0268-missing-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
