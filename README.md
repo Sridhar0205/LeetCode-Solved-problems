@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1837-sum-of-digits-in-base-k) |
+| [2235-add-two-integers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
