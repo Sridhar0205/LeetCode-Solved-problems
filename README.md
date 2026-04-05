@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0344-reverse-string) |
+| [0657-robot-return-to-origin](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0696-count-binary-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
