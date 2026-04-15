@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3110-score-of-a-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3110-score-of-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2751-robot-collisions) |
