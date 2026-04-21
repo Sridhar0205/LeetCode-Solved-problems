@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1672-richest-customer-wealth) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sridhar0205/LeetCode-Solved-problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
